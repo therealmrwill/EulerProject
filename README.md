@@ -18,10 +18,12 @@ Problems solved (0 / 100)
     2c. Main Pseudo-Code
     2d. Sub-Method Pseudo-Code
     2e. Current Solution -> Could be incorrect if problem is still in the testing phase
+    2d. 
     
 
 **Problem Status**    
 *Working Status:*
+ N/A: No Progress has been made
  IP: In-Progress
  IT: In-Testing
  Func: Functioning
@@ -42,13 +44,27 @@ Problems solved (0 / 100)
 
 
 **Main Program File**
-File Path:
+File Path: app/Program.cs
 
-
+Problems Contained: 0 / 100
 
 
 
 **Problem List:**
+Problem 1:
+ Methods: app/Problem1/Problem1.cs
+ ReadMe: app/Problem1/README Problem1.txt  
+
+ Status:
+  Working Status: IP
+  ReadMe Status: N/A
+  RunTime Status: N/A
+
+
+
+
+
 
 
  **Additional Helper Classes (With Documentation)**
+ None

@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-**Version 2.1 - Problem 2 Completed, Commented, and Optimized**
+## Version 2.1 - Problem 2 Completed, Commented, and Optimized
 
     Problems solved (2 / 100)
 
@@ -9,7 +9,6 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
     File Path: app/Program.cs
     Problems Contained: 2 / 100
-
 
 **Problem List:**
 
@@ -33,9 +32,8 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
     1. Static Problem Class
         A. Main Method - .Run()
-        B. Sub-Methods - Will be in ReadMe part d
+        B. Sub-Methods - Explained in ReadMe
         C. RunTime Method - .RunTime()
-
 
     2. Problem ReadMe
         A. Problem Status
@@ -44,7 +42,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         D. Main Pseudo-Code
         E. Sub-Method Pseudo-Code
         F. Additional Classes Used
-        G. Current Solution -> Could be incorrect if problem is still in the testing phase
+        G. Current Solution -> with validity
         H. Current RunTime
 
 
@@ -57,14 +55,12 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Func: Functioning
         FullFunc: Fully Functioning (Does not include time test)
 
-
     ReadMe Status:
         N/A: Non-Existent
         Steps: Step Pseudo-Code Completed
         Main: Main Method Completely Commented
         Methods: Methods Fully Commented
         All: All code is commented and explained
-
 
     RunTime Status:
         N/A: Run Time has not been tested

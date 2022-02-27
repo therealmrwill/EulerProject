@@ -3,7 +3,7 @@ ReadMe Template V1.0
 Problem 2: Even Fibonacci numbers
 
 A: Status: Completed
- Working Status: Completed
+ Working Status: FullFunc
  ReadMe Status: Completed
  RunTime Status: Optimal
 

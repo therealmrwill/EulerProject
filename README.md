@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-## Version 2.1 - Problem 2 Completed, Commented, and Optimized
+### Version 2.1 - Problem 2 Completed, Commented, and Optimized
 
     Problems solved (2 / 100)
 

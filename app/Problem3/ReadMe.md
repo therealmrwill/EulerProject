@@ -1,10 +1,10 @@
-# **Problem 3: Largest Prime Factor V1.3**
+# **Problem 3: Largest Prime Factor V1.4**
 ###### ReadMe Template V2.1
 
 
 #### A: Status: Incomplete
     Working Status: FullFunc
-    ReadMe Status: N/A
+    ReadMe Status: Completed
     RunTime Status: Optimized
 
 #### B: Problem
@@ -26,19 +26,28 @@
         
 
 #### D: Main Logic Steps
-    1. Add Steps Here
+    1. Loop through until baseNum = 1
+        A. Loop through all numbers until a new prime factor is found 
+        I. set primeFactorFound to true
+            II. Add new primeFactor to list
+            III. Divide base number by new primeFactor
+    2. Return largest prime factor
 
 #### E: Additional Classes Used
     No Additional Classes Used
 
 #### F: Sub-Methods
-    1. IsPrime(lone possiblePrime) -> returns bool
-        1a. 
+    1. IsPrime(long possiblePrime) -> returns bool
+        a. Sets maximum testing value to sqrt(possiblePrime)
+        b. Tests every number between 2 and maximum
+            I. If testValue is a factor of possiblePrime return false
+        c. Otherwise return true
+            I. This means that there are no factors other than 1 and the number
 
 #### G: Current Solution: Not-Tested
-    Put Current Solution Here
+    Solution: Run Line 20 of Program.cs
 
 #### H: Current runTime:
-    Output: 00:00.0007229
-    - Time is less than .000 so it is not displayed with .RunWithTime() method
+    Output: 00:00.033
+    
 

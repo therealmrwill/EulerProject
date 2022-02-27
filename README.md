@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 3.1 - Problem 3 Completed, Commented and Optimized 
+### Version 3.1.1 - Problem 3 Completed, Commented and Optimized 
 ##### Problems solved (2 / 100)
 
 **Main Program File**
@@ -24,7 +24,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 16
 
     Problem 3: Largest Prime Factor
-        Status: FullFunc N/a Optimized
+        Status: Completed
         Methods: app/Problem3/ProblemTemplate.cs
         ReadMe: app/Problem3/ReadMe.md
         Line in Program.cs: 20

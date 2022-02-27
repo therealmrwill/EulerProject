@@ -14,15 +14,16 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
 **Problem List:**
 
-Problem 1: Multiples of 3 or 5
+    Problem 1: 
+        Multiples of 3 or 5
 
-Methods: app/Problem1/Problem1.cs
+        Methods: app/Problem1/Problem1.cs
 
-ReadMe: app/Problem1/README Problem1.txt  
+        ReadMe: app/Problem1/README Problem1.txt  
 
-Line in Program.cs: 14
+        Line in Program.cs: 14
 
-Status: Completed
+        Status: Completed
 
 
  **Additional Helper Classes (With Documentation)**

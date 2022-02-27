@@ -1,9 +1,8 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 2.1 - Problem 2 Completed, Commented, and Optimized
-
-    Problems solved (2 / 100)
+### Version 3.0 - Problem 3 Initialized
+##### Problems solved (2 / 100)
 
 **Main Program File**
 
@@ -15,24 +14,31 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
     Problem 1: Multiples of 3 or 5
         Status: Completed
         Methods: app/Problem1/Problem1.cs
-        ReadMe: app/Problem1/README Problem1.txt  
+        ReadMe: app/Problem1/ReadMe.md  
         Line in Program.cs: 12
         
     Problem 2: Even Fibonacci numbers
         Status: Completed
         Methods: app/Problem2/Problem2.cs
-        ReadMe: app/Problem2/README Problem2.txt
+        ReadMe: app/Problem2/ReadMe.md
         Line in Program.cs: 16
 
     Problem 3: Largest Prime Factor
         Status: N/a N/a N/a
-        Methods:
-        ReadMe: 
-        line in Program.cs: 
+        Methods: app/Problem3/ProblemTemplate.cs
+        ReadMe: app/Problem3/ReadMe.md
+        Line in Program.cs: 20
+
+    
 
 
  **Additional Helper Classes (With Documentation)**
-    Currently None
+    Problem Template: Version 2.1.0
+        Status: Completed
+        Methods: app/ProblemTemplate/ProblemTemplate.cs
+        ReadMe: app/ProblemTemplate/ReadMe.md
+        Purpose: To serve as a template to set up future problems
+
 
 **Problem Folder Contents:**
 

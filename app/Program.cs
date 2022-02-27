@@ -17,7 +17,11 @@ namespace app
             //System.Console.WriteLine(Problem2.Run());
             //System.Console.WriteLine(Problem2.RunTime());
 
+            //* Problem 3: Largest Prime Factor
+            System.Console.WriteLine(Problem3.Run());
+            System.Console.WriteLine(Problem3.RunTime());
 
+            
             
         }
     }   

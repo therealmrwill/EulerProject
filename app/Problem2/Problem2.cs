@@ -36,7 +36,7 @@ namespace app{
         //There are no Sub-Methods for this problem!
 
         //* C: RunTime Method - .RunTime()
-        public static string RunTime(){
+        public static string RunWithTime(){
             //Creates a stopwatch object
             Stopwatch stopwatch = new Stopwatch();
     
@@ -44,7 +44,7 @@ namespace app{
             stopwatch.Start();
 
             //Runs current .Run() method
-            Run();
+            System.Console.WriteLine(Run());
         
             //Stops the stopwatch
             stopwatch.Stop();

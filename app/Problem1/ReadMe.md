@@ -30,6 +30,6 @@
     Run Program.cs line 12
 
 #### H: Current runTime:
-    Output: 00:00:000 
-     - This means that the function runs in less than .001 seconds
+    Output: 00:00:031 
+     
 

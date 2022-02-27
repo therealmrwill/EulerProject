@@ -41,6 +41,6 @@
     Run Program.cs line 16
 
 #### H: Current runTime:
-    RunTime: 00:00.000
-    Again this means that this code executed in less that .001 seconds
+    RunTime: 00:00.001
+
 

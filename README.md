@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 3.0 - Problem 3 Initialized
+### Version 3.0 - Problem 3 Completed and Optimized (Not Commented)
 ##### Problems solved (2 / 100)
 
 **Main Program File**
@@ -24,7 +24,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 16
 
     Problem 3: Largest Prime Factor
-        Status: N/a N/a N/a
+        Status: FullFunc N/a Optimized
         Methods: app/Problem3/ProblemTemplate.cs
         ReadMe: app/Problem3/ReadMe.md
         Line in Program.cs: 20
@@ -45,7 +45,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
     1. Static Problem Class
         A. Main Method - .Run()
         B. Sub-Methods - Explained in ReadMe
-        C. RunTime Method - .RunTime()
+        C. RunTime Method - .RunWithTime()
 
     2. Problem ReadMe
         A. Problem Status

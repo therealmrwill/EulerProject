@@ -43,7 +43,7 @@ namespace app
         TimeSpan ts = stopwatch.Elapsed;
 
         //Outputs RunTime of .Run() method in format 00:00.000
-        return String.Format("RunTime is {0:00}:{1:00}.{2:000}", ts.Minutes, ts.Seconds, ts.Milliseconds);
+        return String.Format("Problem1 RunTime is {0:00}:{1:00}.{2:000}", ts.Minutes, ts.Seconds, ts.Milliseconds);
 
         }
     }   

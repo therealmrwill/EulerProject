@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-**Version 1.1 - Problem 1 Completed, Commented and Optimized**
+**Version 2.0 - Problem 2 Created**
 
     Problems solved (1 / 100)
 
@@ -20,7 +20,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 12
         
     Problem 2: Even Fibonacci numbers
-        Status: IP N/a N/a
+        Status: Completed
         Methods: app/Problem2/Problem2.cs
         ReadMe: app/Problem2/README Problem2.txt
         Line in Program.cs: 16

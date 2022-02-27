@@ -1,14 +1,14 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-**Version 2.0 - Problem 2 Created**
+**Version 2.1 - Problem 2 Completed, Commented, and Optimized**
 
-    Problems solved (1 / 100)
+    Problems solved (2 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 1 / 100
+    Problems Contained: 2 / 100
 
 
 **Problem List:**

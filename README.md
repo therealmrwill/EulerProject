@@ -1,9 +1,27 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-**Version 1.0 - Creation of Problem 1**
+**Version 1.1 - Problem 1 Completed, Commented and Optimized**
 
-Problems solved (0 / 100)
+Problems solved (1 / 100)
+
+**Main Program File**
+File Path: app/Program.cs
+
+Problems Contained: 1 / 100
+
+
+**Problem List:**
+Problem 1: Multiples of 3 or 5
+ Methods: app/Problem1/Problem1.cs
+ ReadMe: app/Problem1/README Problem1.txt  
+ Line in Program.cs: 14
+ Status: Completed
+
+
+ **Additional Helper Classes (With Documentation)**
+ 
+
  
 **Problem Folder Contents:**
 *1. Static Problem Class*
@@ -17,9 +35,10 @@ Problems solved (0 / 100)
     2c. Logic Explanations
     2c. Main Pseudo-Code
     2d. Sub-Method Pseudo-Code
-    2e. Current Solution -> Could be incorrect if problem is still in the testing phase
-    2d. 
-    
+    2e. Additional Classes Used
+    2f. Current Solution -> Could be incorrect if problem is still in the testing phase
+    2g. Current RunTime
+
 
 **Problem Status**    
 *Working Status:*
@@ -43,28 +62,3 @@ Problems solved (0 / 100)
  Optimized: Code is fully optimized -> includes current runTime
 
 
-**Main Program File**
-File Path: app/Program.cs
-
-Problems Contained: 0 / 100
-
-
-
-**Problem List:**
-Problem 1:
- Methods: app/Problem1/Problem1.cs
- ReadMe: app/Problem1/README Problem1.txt  
-
- Status:
-  Working Status: IP
-  ReadMe Status: N/A
-  RunTime Status: N/A
-
-
-
-
-
-
-
- **Additional Helper Classes (With Documentation)**
- None

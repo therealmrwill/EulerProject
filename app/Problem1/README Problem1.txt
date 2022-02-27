@@ -26,7 +26,7 @@ E: Addition Classes Used
 F: Sub-Methods:
  No Sub-Methods are needed for this problem!
 
-G; Current Solution:
+G; Current Solution: Correct
  Sum: 233168
 
 H: Current RunTime:

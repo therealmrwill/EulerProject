@@ -29,8 +29,7 @@
     3. For loop until max value of allFibNums > 4,000,000
         3a. Add new Fibonacci value to allFibNums
         3b. If new number is even add to evenFibSum
-
- 4. Return evenFibSum
+    4. Return evenFibSum
 
 #### E: Additional Classes Used
     No Additional Classes

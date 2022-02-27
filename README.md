@@ -24,6 +24,12 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         ReadMe: app/Problem2/README Problem2.txt
         Line in Program.cs: 16
 
+    Problem 3: Largest Prime Factor
+        Status: N/a N/a N/a
+        Methods:
+        ReadMe: 
+        line in Program.cs: 
+
 
  **Additional Helper Classes (With Documentation)**
     Currently None

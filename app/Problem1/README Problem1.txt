@@ -27,7 +27,7 @@ F: Sub-Methods:
  No Sub-Methods are needed for this problem!
 
 G; Current Solution: Correct
- Sum: 233168
+ Run Program.cs line 12
 
 H: Current RunTime:
   Output: 00:00:000 

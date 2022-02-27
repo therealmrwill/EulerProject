@@ -17,13 +17,13 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Status: Completed
         Methods: app/Problem1/Problem1.cs
         ReadMe: app/Problem1/README Problem1.txt  
-        Line in Program.cs: 14
+        Line in Program.cs: 12
         
     Problem 2: Even Fibonacci numbers
-        Status: N/a N/a N/a
-        Methods: 
-        ReadMe:
-        Line in Program.cs: 
+        Status: IP N/a N/a
+        Methods: app/Problem2/Problem2.cs
+        ReadMe: app/Problem2/README Problem2.txt
+        Line in Program.cs: 16
 
 
  **Additional Helper Classes (With Documentation)**

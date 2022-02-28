@@ -3,9 +3,9 @@
 
 
 #### A: Status: Incomplete
-    Working Status: N/A
+    Working Status: FullFunc
     ReadMe Status: N/A
-    RunTime Status: N/a
+    RunTime Status: Optimized
 
 #### B: Problem
     Find the largest palindrome made from the product of two 3-digit numbers.
@@ -15,18 +15,21 @@
         - A string that reads the same forwards or backwards
         - Ex. 'racecar' 'tacocat' '9009'
 
+    Testing Palindromes
+        - Compare first half of characters to second half    
+
 #### D: Main Logic Steps
     1. Add Steps Here
 
 #### E: Additional Classes Used
-    1. Add additional classes here 
+    No Additional Classes Used
 
 #### F: Sub-Methods
     1. Add SubMethods Here along with steps
 
 #### G: Current Solution: Not-Tested
-    Put Current Solution Here
+    Solution: Run line 25 in Program.cs
 
 #### H: Current runTime:
-    Result of (Problem).RunTime() should go here
+    runTime: 00:00.017
 

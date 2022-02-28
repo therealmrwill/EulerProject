@@ -22,8 +22,8 @@ namespace app
             //System.Console.WriteLine(Problem3.RunWithTime());
 
             //* Problem 4: Largest palindrome product
-            System.Console.WriteLine(Problem4.Run());
-            System.Console.WriteLine(Problem4.RunWithTime());
+            //System.Console.WriteLine(Problem4.Run());
+            //System.Console.WriteLine(Problem4.RunWithTime());
             
         }
     }   

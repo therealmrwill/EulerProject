@@ -1,8 +1,8 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 4.0 - Problem 4 Initialized 
-##### Problems solved (3 / 100)
+### Version 4.1 - Problem 4 Completed and Optimized (Not Commented)
+##### Problems solved (4 / 100)
 
 **Main Program File**
 

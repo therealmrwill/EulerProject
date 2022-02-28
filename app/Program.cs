@@ -5,7 +5,7 @@ namespace app
     class Program
     {
         public static void Main(string[] args){
-            //* All Problems Listed Here 
+            //* All Problems Listed Here ( 3 / 100 )
             //To find the result of a problem uncomment line 1 of problem
             //To find the runTime of a problem uncomment line 2 of problem
    
@@ -21,7 +21,9 @@ namespace app
             //System.Console.WriteLine(Problem3.Run());
             //System.Console.WriteLine(Problem3.RunWithTime());
 
-            
+            //* Problem 4: Largest palindrome product
+            System.Console.WriteLine(Problem4.Run());
+            System.Console.WriteLine(Problem4.RunWithTime());
             
         }
     }   

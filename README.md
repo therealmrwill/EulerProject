@@ -38,6 +38,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
 
  **Additional Helper Classes (With Documentation)**
+ 
     Problem Template: Version 2.1.0
         Status: Completed
         Methods: app/ProblemTemplate/ProblemTemplate.cs

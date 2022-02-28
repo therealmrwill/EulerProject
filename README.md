@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 4.1 - Problem 4 Completed and Optimized (Not Commented)
+### Version 4.2.1 - Problem 4 Completed, Commented and Optimized
 ##### Problems solved (4 / 100)
 
 **Main Program File**
@@ -15,30 +15,30 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Status: Completed
         Methods: app/Problem1/Problem1.cs
         ReadMe: app/Problem1/ReadMe.md  
-        Line in Program.cs: 12
+        Line in Program.cs: 14
         
     Problem 2: Even Fibonacci numbers
         Status: Completed
         Methods: app/Problem2/Problem2.cs
         ReadMe: app/Problem2/ReadMe.md
-        Line in Program.cs: 16
+        Line in Program.cs: 18
 
     Problem 3: Largest Prime Factor
         Status: Completed
         Methods: app/Problem3/ProblemTemplate.cs
         ReadMe: app/Problem3/ReadMe.md
-        Line in Program.cs: 20
+        Line in Program.cs: 22
 
     Problem 4: Largest Palindrome Product
-        Status: Incomplete
+        Status: Completed
         Methods: app/Problem4/Problem4.cs
         ReadMe: app/Problem4/ReadMe.md
-        Line in Program.cs: 24
+        Line in Program.cs: 26
     
 
 
  **Additional Helper Classes (With Documentation)**
- 
+
     Problem Template: Version 2.1.0
         Status: Completed
         Methods: app/ProblemTemplate/ProblemTemplate.cs

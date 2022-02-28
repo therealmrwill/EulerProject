@@ -8,9 +8,13 @@ namespace app{
         public static string Run(){
             int highestPalindrome = 0;
 
-            for(int num1 = 1; num1 < 1000; num1++){
-                for(int num2 = 1; num2 < 1000; num2++){
+            //* 1. Create 2 loops to check all products from 100 to 999
+            for(int num1 = 100; num1 < 1000; num1++){
+                for(int num2 = 100; num2 < 1000; num2++){
+                    //Product of 2 numbers
                     int currentNum = num1 * num2;
+
+                    //* 2. If the product is more than the current palindrome and number is a palindrome record value as new highest palindrome
                     if(currentNum > highestPalindrome && IsPalindrome(currentNum.ToString())){
                         highestPalindrome = currentNum;
                     }
@@ -18,7 +22,7 @@ namespace app{
                 }
             }   
 
-
+            //* 3. Return the highest found palindrome
             return "Problem 4 Solution " + highestPalindrome;
         }
 
@@ -28,12 +32,19 @@ namespace app{
         //* 1. isPalindrome(string testString) -> returns bool
         private static bool IsPalindrome(string testString)
         {
-            for(int i = 0; i < (int)(testString.Count() / 2); i++){
+            //* a. Set max value to half of the strings length (rounding down)
+            int max = (int)(testString.Count() /2);
+
+            //* b. Loop through from 0 to ma
+            for(int i = 0; i <= max; i++){
+
+                //* I. If character at i doesn't equal its pair return false
                 if(testString.ElementAt(i) != testString.ElementAt(testString.Count() - i - 1)){
                     return false;
                 }
             }
 
+            //* If string passes all tests, return true
             return true;
         }
 

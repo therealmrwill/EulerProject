@@ -5,10 +5,12 @@ namespace app
     class Program
     {
         public static void Main(string[] args){
-            //* All Problems Listed Here ( 3 / 100 )
+            //* All Problems Listed Here ( 4 / 100 )
             //To find the result of a problem uncomment line 1 of problem
             //To find the runTime of a problem uncomment line 2 of problem
-   
+            //For some reason running anything before the timed method changes the result, so this WriteLine is here to balance all RunTime values
+            System.Console.WriteLine("");
+
             //* Problem 1: Multiples of 3 or 5
             //System.Console.WriteLine(Problem1.Run());
             //System.Console.WriteLine(Problem1.RunWithTime());
@@ -25,6 +27,10 @@ namespace app
             //System.Console.WriteLine(Problem4.Run());
             //System.Console.WriteLine(Problem4.RunWithTime());
             
+
+
+
+            System.Console.WriteLine("All Tasks Completed!");
         }
     }   
 }

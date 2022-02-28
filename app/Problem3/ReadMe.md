@@ -45,7 +45,7 @@
             I. This means that there are no factors other than 1 and the number
 
 #### G: Current Solution: Not-Tested
-    Solution: Run Line 20 of Program.cs
+    Solution: Run Line 23 of Program.cs
 
 #### H: Current runTime:
     Output: 00:00.033

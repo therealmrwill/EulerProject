@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 5.0 - Problem 5 created
+### Version 5.1 - Problem 5 Completed (Not commented or optimized)
 ##### Problems solved (4 / 100)
 
 **Main Program File**
@@ -36,9 +36,9 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 26
     
     Problem 5: Smallest Multiple
-        Status: N/A BCG Untested
-        Methods:
-        ReadMe:
+        Status: Func BCG NotOptimized 
+        Methods: app/Problem5/Problem5.cs
+        ReadMe: app/Problem5/ReadMe.md
         Line in Program.cs: 30
 
 

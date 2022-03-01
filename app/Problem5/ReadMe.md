@@ -1,11 +1,11 @@
-# **Problem 5: Smallest Multiple V1.0**
+# **Problem 5: Smallest Multiple V1.1**
 ###### ReadMe Template V2.1
 
 
 #### A: Status: Incomplete
-    Working Status: N/A
+    Working Status: Func
     ReadMe Status: BCG
-    RunTime Status: N/a
+    RunTime Status: NotOptimized
 
 #### B: Problem
     What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
@@ -14,8 +14,10 @@
     Example: 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
 #### D: Main Logic Steps
-    1. Add Steps Here
-
+    1. Create an (infinite) loop - !This could be problematic
+        A. Check if number is divisible by all possibilities
+            I. If true, return value
+    
 #### E: Additional Classes Used
     1. Add additional classes here 
 

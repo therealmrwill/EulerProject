@@ -6,11 +6,26 @@ namespace app{
 
         //* A: Main Method - .Run()
         public static string Run(){
-            return "Code Needs to be entered here";
+            for(int num = 1; true; num++){
+                if(DivisibleByRange(num, 1, 20)){
+                    return "Problem 5 Solution: " + num;
+                }
+            }
         }
 
+        
+
         //* B: Sub-Methods
-        //There are no Sub-Methods for this problem!
+        private static bool DivisibleByRange(int num, int startOfRange, int endOfRange)
+        {
+            for(int testNum = startOfRange; testNum <= endOfRange; testNum++){
+                if(num % testNum != 0){
+                    return false;
+                }
+            }
+
+            return true;
+        }
 
         //* C: RunTime Method - .RunTime()
         public static string RunWithTime(){
@@ -30,7 +45,7 @@ namespace app{
             TimeSpan ts = stopwatch.Elapsed;
 
             //Outputs RunTime of .Run() method in format 00:00.000
-            return String.Format("Problem(numHere) RunTime is {0:00}:{1:00}.{2:000}", ts.Minutes, ts.Seconds, ts.Milliseconds);
+            return String.Format("Problem 5 RunTime is {0:00}:{1:00}.{2:000}", ts.Minutes, ts.Seconds, ts.Milliseconds);
 
         }
 

@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 4.2.1 - Problem 4 Completed, Commented and Optimized
+### Version 5.0 - Problem 5 created
 ##### Problems solved (4 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 4 / 100
+    Problems Contained: 5 / 100
 
 **Problem List:**
 
@@ -35,6 +35,11 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         ReadMe: app/Problem4/ReadMe.md
         Line in Program.cs: 26
     
+    Problem 5: Smallest Multiple
+        Status: N/A BCG Untested
+        Methods:
+        ReadMe:
+        Line in Program.cs: 30
 
 
  **Additional Helper Classes (With Documentation)**

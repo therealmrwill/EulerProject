@@ -27,7 +27,9 @@ namespace app
             //System.Console.WriteLine(Problem4.Run());
             //System.Console.WriteLine(Problem4.RunWithTime());
             
-
+            //* Problem 5: Smallest multiple
+            //System.Console.WriteLine(Problem5.Run());
+            System.Console.WriteLine(Problem5.RunWithTime());
 
 
             System.Console.WriteLine("All Tasks Completed!");

@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 6.1 Problem 6 Created, Solved and optimized (not commented)
+### Version 6.2 - Problem 6 Completed, Commented and Optimized
 ##### Problems solved (6 / 100)
 
 **Main Program File**
@@ -42,7 +42,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 30
 
     Problem 6: Sum Square Difference
-        Status: FullFunc ABCEFGH Optimized
+        Status: Completed
         Methods: app/Problem6/Problem6.cs
         ReadMe: app/Problem6/ReadMe.md
         Line in Program.cs: 34

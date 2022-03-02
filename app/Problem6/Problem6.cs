@@ -6,14 +6,21 @@ namespace app{
 
         //* A: Main Method - .Run()
         public static string Run(){
+            //Initialization of variable
             double sumOfSquares = 0;
             double sumOfNumbers = 0;
 
+            //* 1. Create a loop to run through all numbers tested (1-100)
             for(int num = 1; num <= 100; num++){
+                //* A. Add number to the total sum
                 sumOfNumbers += num;
+                //* B. Add number squared to squared sum
                 sumOfSquares += Math.Pow(num, 2);
             }
 
+            //* 2. Return the difference between these numbers
+            //The line below is not really needed, you could just return this value right away
+            //But I included it so it is easier to see how this works
             double difference = Math.Pow(sumOfNumbers, 2) - sumOfSquares;
             return "Problem 6 solution: " + difference; 
         }

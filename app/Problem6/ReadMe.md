@@ -4,7 +4,7 @@
 
 #### A: Status: Incomplete
     Working Status: FullFunc
-    ReadMe Status: ABCEFGH
+    ReadMe Status: Completed
     RunTime Status: Optimized
 
 #### B: Problem
@@ -14,7 +14,11 @@
     Math.Pow(x, y) -> outputs x^y
 
 #### D: Main Logic Steps
-    1. Add Steps Here
+    1. Create a loop to run through all numbers tested (1-100)
+        A. Add number to the total sum
+        B. Add number squared to squared sum
+    2. Return the difference between these numbers
+    
 
 #### E: Additional Classes Used
     No additional classes used

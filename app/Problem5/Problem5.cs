@@ -9,8 +9,9 @@ namespace app{
 
             //* 1. Create an "infinite" loop
             //? See documentation for my reasoning
-            for(int num = 1; true; num++){
-
+            //Edit: To further optimize the speed of the program, I am incrementing by the highest number in the range 
+            // ^ This works because any possible solution would have to be divisible by this number anyways
+            for(int num = 0; true; num = num + 20){
                 //* 2. Check if number is divisible by all numbers in a range using IsDivisibleByNumber()
                 if(IsDivisibleByRange(num, 1, 20)){
                     //* 3. If true, return the value
@@ -24,16 +25,21 @@ namespace app{
 
         //* B: Sub-Methods
         private static bool IsDivisibleByRange(int num, int startOfRange, int endOfRange)
-        {
-            //* A. Create a loop through all numbers between the start and end of the range
+        {   
+            //* A. If number = 0 return false
+            if(num == 0){
+                return false;
+            }
+
+            //* B. Create a loop through all numbers between the start and end of the range
             for(int testNum = endOfRange; testNum >= startOfRange; testNum--){
-                //* B. If our number is not evenly divisible by the testNum, return false
+                //* C. If our number is not evenly divisible by the testNum, return false
                 if(num % testNum != 0){
                     return false;
                 }
             }
 
-            //* C. Otherwise, it is divisible by all numbers in the range, so we return true
+            //* D. Otherwise, it is divisible by all numbers in the range, so we return true
             return true;
         }
 

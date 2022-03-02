@@ -1,11 +1,11 @@
-# **Problem 5: Smallest Multiple V1.1**
+# **Problem 5: Smallest Multiple V1.3**
 ###### ReadMe Template V2.1
 
 
 #### A: Status: Complete
     Working Status: FullFunc
     ReadMe Status: Completed
-    RunTime Status: NotFullyOptimized
+    RunTime Status: Optimized
 
 #### B: Problem
     What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
@@ -30,10 +30,12 @@
 
 #### F: Sub-Methods
     1. IsDivisibleByRange(int num, int startOdRange, int endOfRange) -> returns bool
-        A. Create a loop through all numbers between the start and end of the range
+        A. If number = 0 return false
+            I. This is because zero will always return a zero remainder, even though you cannot evenly divide zero by any number
+        B. Create a loop through all numbers between the start and end of the range
             I. (We go backwards through to speed up our final result)
-        B. If our number is not evenly divisible by the testNum, return false
-        C. Otherwise, return true
+        C. If our number is not evenly divisible by the testNum, return false
+        D. Otherwise, return true
 
 #### G: Current Solution: Tested
     Current solution: Run program.cs line 31

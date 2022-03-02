@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 5.1 - Problem 5 Completed and Commented (Probably could be more optimized)
-##### Problems solved (5 / 100)
+### Version 6.1 Problem 6 Created, Solved and optimized (not commented)
+##### Problems solved (6 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 5 / 100
+    Problems Contained: 6 / 100
 
 **Problem List:**
 
@@ -36,10 +36,16 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 26
     
     Problem 5: Smallest Multiple
-        Status: Func BCG NotOptimized 
+        Status: Completed
         Methods: app/Problem5/Problem5.cs
         ReadMe: app/Problem5/ReadMe.md
         Line in Program.cs: 30
+
+    Problem 6: Sum Square Difference
+        Status: FullFunc ABCEFGH Optimized
+        Methods: app/Problem6/Problem6.cs
+        ReadMe: app/Problem6/ReadMe.md
+        Line in Program.cs: 34
 
 
  **Additional Helper Classes (With Documentation)**

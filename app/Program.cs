@@ -5,7 +5,7 @@ namespace app
     class Program
     {
         public static void Main(string[] args){
-            //* All Problems Listed Here ( 4 / 100 )
+            //* All Problems Listed Here ( 6 / 100 )
             //To find the result of a problem uncomment line 1 of problem
             //To find the runTime of a problem uncomment line 2 of problem
             //For some reason running anything before the timed method changes the result, so this WriteLine is here to balance all RunTime values
@@ -29,10 +29,13 @@ namespace app
             
             //* Problem 5: Smallest multiple
             //System.Console.WriteLine(Problem5.Run());
-            System.Console.WriteLine(Problem5.RunWithTime());
+            //System.Console.WriteLine(Problem5.RunWithTime());
+
+            //* Problem 6: Sum Square Difference
+            //System.Console.WriteLine(Problem6.Run());
+            //System.Console.WriteLine(Problem6.RunWithTime());
 
 
-            System.Console.WriteLine("All Tasks Completed!");
         }
     }   
 }

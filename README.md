@@ -79,11 +79,10 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         FullFunc: Fully Functioning (Does not include time test)
 
     ReadMe Status:
-        N/A: Non-Existent
-        Steps: Step Pseudo-Code Completed
-        Main: Main Method Completely Commented
-        Methods: Methods Fully Commented
-        All: All code is commented and explained
+      Shown by which letters steps have been completed.
+        Ex. AB 
+            - Problem Status completed
+            - Statement of problem completed 
 
     RunTime Status:
         N/A: Run Time has not been tested

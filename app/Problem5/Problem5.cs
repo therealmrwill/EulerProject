@@ -6,8 +6,15 @@ namespace app{
 
         //* A: Main Method - .Run()
         public static string Run(){
+
+            //* 1. Create an "infinite" loop
+            //? See documentation for my reasoning
             for(int num = 1; true; num++){
-                if(DivisibleByRange(num, 1, 20)){
+
+                //* 2. Check if number is divisible by all numbers in a range using IsDivisibleByNumber()
+                if(IsDivisibleByRange(num, 1, 20)){
+                    //* 3. If true, return the value
+                    //This also ends the code, breaking our "infinite" loop
                     return "Problem 5 Solution: " + num;
                 }
             }
@@ -16,14 +23,17 @@ namespace app{
         
 
         //* B: Sub-Methods
-        private static bool DivisibleByRange(int num, int startOfRange, int endOfRange)
+        private static bool IsDivisibleByRange(int num, int startOfRange, int endOfRange)
         {
-            for(int testNum = startOfRange; testNum <= endOfRange; testNum++){
+            //* A. Create a loop through all numbers between the start and end of the range
+            for(int testNum = endOfRange; testNum >= startOfRange; testNum--){
+                //* B. If our number is not evenly divisible by the testNum, return false
                 if(num % testNum != 0){
                     return false;
                 }
             }
 
+            //* C. Otherwise, it is divisible by all numbers in the range, so we return true
             return true;
         }
 

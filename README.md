@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 7.1 - Problem 7 Completed and Optimized (Not commented)
+### Version 7.1 - Problem 7 Completed, Commented and Optimized
 ##### Problems solved (7 / 100)
 
 **Main Program File**
@@ -48,7 +48,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 34
 
     Problem 7: 10,001st Prime
-        Status: Complete
+        Status: Completed
         Methods: app/Problem7/Problem7.cs
         ReadMe: app/Problem7/ReadMe.md
         Line in Program.cs: 38

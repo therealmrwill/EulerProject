@@ -5,7 +5,7 @@ namespace app
     class Program
     {
         public static void Main(string[] args){
-            //* All Problems Listed Here ( 7 / 100 )
+            //* All Problems Listed Here ( 8 / 100 )
             //To find the result of a problem uncomment line 1 of problem
             //To find the runTime of a problem uncomment line 2 of problem
             //For some reason running anything before the timed method changes the result, so this WriteLine is here to balance all RunTime values
@@ -38,6 +38,10 @@ namespace app
             //* Problem 7: 10,001 Prime
             //System.Console.WriteLine(Problem7.Run());
             //System.Console.WriteLine(Problem7.RunWithTime());
+
+            //* Problem 8: Largest Product in a series
+            //System.Console.WriteLine(Problem8.Run());
+            System.Console.WriteLine(Problem8.RunWithTime());
         }
     }   
 }

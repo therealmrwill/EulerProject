@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 7.1 - Problem 7 Completed, Commented and Optimized
+### Version 8.0 Problem 8 Created (plus small fix to 7)
 ##### Problems solved (7 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 7 / 100
+    Problems Contained: 8 / 100
 
 **Problem List:**
 
@@ -52,6 +52,12 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Methods: app/Problem7/Problem7.cs
         ReadMe: app/Problem7/ReadMe.md
         Line in Program.cs: 38
+
+    Problem 8: Largest Product in a series
+        Status: Incomplete
+        Methods: app/Problem8/Problem8.cs
+        ReadMe: app/Problem8/ReadMe.md
+        DataSet: app/Problem8/Problem8Data.txt
 
  **Additional Helper Classes (With Documentation)**
 

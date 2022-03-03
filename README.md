@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 6.3 - Further Optimized Problem 5
-##### Problems solved (6 / 100)
+### Version 7.1 - Problem 7 Completed and Optimized (Not commented)
+##### Problems solved (7 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 6 / 100
+    Problems Contained: 7 / 100
 
 **Problem List:**
 
@@ -47,6 +47,11 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         ReadMe: app/Problem6/ReadMe.md
         Line in Program.cs: 34
 
+    Problem 7: 10,001st Prime
+        Status: Complete
+        Methods: app/Problem7/Problem7.cs
+        ReadMe: app/Problem7/ReadMe.md
+        Line in Program.cs: 38
 
  **Additional Helper Classes (With Documentation)**
 

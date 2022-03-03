@@ -6,11 +6,43 @@ namespace app{
 
         //* A: Main Method - .Run()
         public static string Run(){
-            return "Code Needs to be entered here";
+            string dataString = System.IO.File.ReadAllText(@"Problem8/Problem8Data.txt");
+            List<int> dataList = NumListFromString(dataString);
+            long maxProduct = 0;
+
+            for(int begNum = 0; begNum < dataList.Count() - 14; begNum++){
+                long curProduct = 1;
+                
+                for(int curNum = 0; curNum < 13; curNum++){
+                    long nuwMultiple = dataList.ElementAt(begNum + curNum);
+                    curProduct *= nuwMultiple;
+                }
+
+                if(curProduct > maxProduct){
+                    maxProduct = curProduct;
+                }
+            }
+
+            return "Problem 8 solution: " + maxProduct;
+            
         }
 
+        
+
         //* B: Sub-Methods
-        //There are no Sub-Methods for this problem!
+        private static List<int> NumListFromString(string dataString)
+        {
+            List<int> dataOut = new List<int>();
+            int num = 0;
+
+            for(int charNum = 0; charNum < dataString.Count() - 1; charNum++){
+                if(int.TryParse(dataString.Substring(charNum, 1), out num)){
+                    dataOut.Add(int.Parse(dataString.Substring(charNum, 1)));
+                }
+            }
+
+            return dataOut;
+        }
 
         //* C: RunTime Method - .RunTime()
         public static string RunWithTime(){

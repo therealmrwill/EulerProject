@@ -2,10 +2,10 @@
 ###### ReadMe Template V2.1
 
 
-#### A: Status: Incomplete
-    Working Status: N/a
+#### A: Status: Completed
+    Working Status: FullFunc
     ReadMe Status: N/A
-    RunTime Status: N/a
+    RunTime Status: NotOptimized
 
 #### B: Problem
     Find the value of the thirteen adjacent digits in the 1000-digit number that have the greatest product.
@@ -24,8 +24,9 @@
     1. Add SubMethods Here along with steps
 
 #### G: Current Solution: Not-Tested
-    Put Current Solution Here
+    Solution: Run Program.cs line 43
 
 #### H: Current runTime:
-    Result of (Problem).RunTime() should go here
+    RunTime: 00:00.024
+
 

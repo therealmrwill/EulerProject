@@ -1,8 +1,8 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 8.0 Problem 8 Created (plus small fix to 7)
-##### Problems solved (7 / 100)
+### Version 8.0 Problem 8 Completed (Not Commented or optimized) 
+##### Problems solved (8 / 100)
 
 **Main Program File**
 

@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 8.0 Problem 8 Completed (Not Commented or optimized) 
+### Version 8.1 Problem 8 Completed, Commented and Optimized
 ##### Problems solved (8 / 100)
 
 **Main Program File**
@@ -54,7 +54,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Line in Program.cs: 38
 
     Problem 8: Largest Product in a series
-        Status: Incomplete
+        Status: Complete
         Methods: app/Problem8/Problem8.cs
         ReadMe: app/Problem8/ReadMe.md
         DataSet: app/Problem8/Problem8Data.txt

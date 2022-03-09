@@ -41,7 +41,7 @@ namespace app
 
             //* Problem 8: Largest Product in a series
             //System.Console.WriteLine(Problem8.Run());
-            System.Console.WriteLine(Problem8.RunWithTime());
+            //System.Console.WriteLine(Problem8.RunWithTime());
         }
     }   
 }

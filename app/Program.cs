@@ -45,7 +45,7 @@ namespace app
 
             //* Problem 9: Special Pythagorean Triplet
             //System.Console.WriteLine(Problem9.Run());
-            System.Console.WriteLine(Problem9.RunWithTime());
+            //System.Console.WriteLine(Problem9.RunWithTime());
         }
     }   
 }

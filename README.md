@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 9.1 - Problem 9 Completed and Optimized
+### Version 9.2 - Problem 9 Completed, Commented and Optimized
 ##### Problems solved (9 / 100)
 
 **Main Program File**
@@ -61,7 +61,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
 
     Problem 9: Special Pythagorean Triplet
-        Status: Incomplete
+        Status: Complete 
         Methods: app/Problem9/Problem9.cs
         ReadMe: app/Problem9/ReadMe.md   
 

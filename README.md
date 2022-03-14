@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 9.2 - Problem 9 Completed, Commented and Optimized
+### Version 10.0 - Problem 10 Created
 ##### Problems solved (9 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 9 / 100
+    Problems Contained: 10 / 100
 
 **Problem List:**
 
@@ -63,7 +63,18 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
     Problem 9: Special Pythagorean Triplet
         Status: Complete 
         Methods: app/Problem9/Problem9.cs
-        ReadMe: app/Problem9/ReadMe.md   
+        ReadMe: app/Problem9/ReadMe.md  
+
+
+    Problem 10: Summation of Primes
+        Status: Incomplete
+        Methods: app/Problem10/Problem10.cs
+        ReadMe: app/Problem10/ReadMe.md
+
+
+
+
+
 
  **Additional Helper Classes (With Documentation)**
 

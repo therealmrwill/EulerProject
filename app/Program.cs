@@ -5,7 +5,7 @@ namespace app
     class Program
     {
         public static void Main(string[] args){
-            //* All Problems Listed Here ( 9 / 100 )
+            //* All Problems Listed Here ( 10 / 100 )
             //To find the result of a problem uncomment line 1 of problem
             //To find the runTime of a problem uncomment line 2 of problem
             //For some reason running anything before the timed method changes the result, so this WriteLine is here to balance all RunTime values
@@ -46,6 +46,11 @@ namespace app
             //* Problem 9: Special Pythagorean Triplet
             //System.Console.WriteLine(Problem9.Run());
             //System.Console.WriteLine(Problem9.RunWithTime());
+
+            //* Problem 10: Summation of Primes
+            //System.Console.WriteLine(Problem10.Run());
+            //System.Console.WriteLine(Problem10.RunWithTime());
+
         }
     }   
 }

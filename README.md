@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 10.0 - Problem 10 Created
+### Version 10.0.1 - Folder Re-Naming
 ##### Problems solved (9 / 100)
 
 **Main Program File**

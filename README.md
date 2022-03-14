@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 8.1 Problem 8 Completed, Commented and Optimized
+### Version 9.0 - Problem 9 Created
 ##### Problems solved (8 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 8 / 100
+    Problems Contained: 9 / 100
 
 **Problem List:**
 
@@ -58,6 +58,12 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Methods: app/Problem8/Problem8.cs
         ReadMe: app/Problem8/ReadMe.md
         DataSet: app/Problem8/Problem8Data.txt
+
+
+    Problem 9: Special Pythagorean Triplet
+        Status: Incomplete
+        Methods: app/Problem9/Problem9.cs
+        ReadMe: app/Problem9/ReadMe.md   
 
  **Additional Helper Classes (With Documentation)**
 

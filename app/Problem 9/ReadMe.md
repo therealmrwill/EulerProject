@@ -1,4 +1,4 @@
-# **Problem 9: Special Pythagorean Triplet V2.2*
+# **Problem 9: Special Pythagorean Triplet V2.2.1*
 ###### ReadMe Template V2.1
 
 

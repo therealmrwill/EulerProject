@@ -1,8 +1,8 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 10.0.1 - Folder Re-Naming
-##### Problems solved (9 / 100)
+### Version 10.1 - Problem 10 Completed and Commented (Not fully Optimized) - Problem 9 grammatical fix
+##### Problems solved (10 / 100)
 
 **Main Program File**
 
@@ -67,7 +67,7 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
 
     Problem 10: Summation of Primes
-        Status: Incomplete
+        Status: Complete
         Methods: app/Problem10/Problem10.cs
         ReadMe: app/Problem10/ReadMe.md
 

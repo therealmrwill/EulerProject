@@ -44,7 +44,7 @@ namespace app{
                 if(b % 1 == 0){
                     //* I. If b is natural, return our answer
                     double total = a * b * c;
-                    return "Problem 9 Answer: " + total;
+                    return "Problem 9 Solution: " + total;
                 }
             }
 

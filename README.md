@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 9.0 - Problem 9 Solved (Nowhere near optimized)
+### Version 9.1 - Problem 9 Completed and Optimized
 ##### Problems solved (9 / 100)
 
 **Main Program File**

@@ -1,11 +1,11 @@
-# **Problem 9: Special Pythagorean Triplet V1.1*
+# **Problem 9: Special Pythagorean Triplet V2.1*
 ###### ReadMe Template V2.1
 
 
 #### A: Status: Incomplete
-    Working Status: NotOptimized
-    ReadMe Status: N/A
-    RunTime Status: N/a
+    Working Status: FullFunc
+    ReadMe Status: ABH
+    RunTime Status: Optimized
 
 #### B: Problem
     - There exists exactly one Pythagorean triplet for which a + b + c = 1000.
@@ -28,5 +28,5 @@
     Put Current Solution Here
 
 #### H: Current runTime:
-    Result of (Problem).RunTime() should go here
+    Current Runtime: 00:00.012
 

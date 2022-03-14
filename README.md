@@ -1,7 +1,7 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 10.1 - Problem 10 Completed and Commented (Not fully Optimized) - Problem 9 grammatical fix
+### Version 10.1.1 - File Re-Organization 
 ##### Problems solved (10 / 100)
 
 **Main Program File**
@@ -13,56 +13,56 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
 
     Problem 1: Multiples of 3 or 5
         Status: Completed
-        Methods: app/Problem1/Problem1.cs
+        Methods: app/Problem01/Problem1.cs
         ReadMe: app/Problem1/ReadMe.md  
         Line in Program.cs: 14
         
     Problem 2: Even Fibonacci numbers
         Status: Completed
-        Methods: app/Problem2/Problem2.cs
+        Methods: app/Problem02/Problem2.cs
         ReadMe: app/Problem2/ReadMe.md
         Line in Program.cs: 18
 
     Problem 3: Largest Prime Factor
         Status: Completed
-        Methods: app/Problem3/ProblemTemplate.cs
+        Methods: app/Problem03/ProblemTemplate.cs
         ReadMe: app/Problem3/ReadMe.md
         Line in Program.cs: 22
 
     Problem 4: Largest Palindrome Product
         Status: Completed
-        Methods: app/Problem4/Problem4.cs
+        Methods: app/Problem04/Problem4.cs
         ReadMe: app/Problem4/ReadMe.md
         Line in Program.cs: 26
     
     Problem 5: Smallest Multiple
         Status: Completed
-        Methods: app/Problem5/Problem5.cs
+        Methods: app/Problem05/Problem5.cs
         ReadMe: app/Problem5/ReadMe.md
         Line in Program.cs: 30
 
     Problem 6: Sum Square Difference
         Status: Completed
-        Methods: app/Problem6/Problem6.cs
+        Methods: app/Problem06/Problem6.cs
         ReadMe: app/Problem6/ReadMe.md
         Line in Program.cs: 34
 
     Problem 7: 10,001st Prime
         Status: Completed
-        Methods: app/Problem7/Problem7.cs
+        Methods: app/Problem07/Problem7.cs
         ReadMe: app/Problem7/ReadMe.md
         Line in Program.cs: 38
 
     Problem 8: Largest Product in a series
         Status: Complete
-        Methods: app/Problem8/Problem8.cs
+        Methods: app/Problem08/Problem8.cs
         ReadMe: app/Problem8/ReadMe.md
         DataSet: app/Problem8/Problem8Data.txt
 
 
     Problem 9: Special Pythagorean Triplet
         Status: Complete 
-        Methods: app/Problem9/Problem9.cs
+        Methods: app/Problem09/Problem9.cs
         ReadMe: app/Problem9/ReadMe.md  
 
 

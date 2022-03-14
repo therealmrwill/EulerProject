@@ -1,9 +1,9 @@
-# **Problem 9: Special Pythagorean Triplet*
+# **Problem 9: Special Pythagorean Triplet V1.1*
 ###### ReadMe Template V2.1
 
 
 #### A: Status: Incomplete
-    Working Status: N/A
+    Working Status: NotOptimized
     ReadMe Status: N/A
     RunTime Status: N/a
 

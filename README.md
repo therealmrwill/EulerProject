@@ -1,13 +1,13 @@
 # EulerProject
 An (unfinished) repository of C# solutions to the first 100 archived problems (projecteuler.net)
 
-### Version 10.1.1 - File Re-Organization 
+### Version 11.0 Problem 11 created 
 ##### Problems solved (10 / 100)
 
 **Main Program File**
 
     File Path: app/Program.cs
-    Problems Contained: 10 / 100
+    Problems Contained: 11 / 100
 
 **Problem List:**
 
@@ -71,7 +71,11 @@ An (unfinished) repository of C# solutions to the first 100 archived problems (p
         Methods: app/Problem10/Problem10.cs
         ReadMe: app/Problem10/ReadMe.md
 
-
+    Problem 11: Largest Product in a Grid
+        Status: Incomplete
+        Methods: app/Problem11/Problem11.cs
+        ReadMe: app/Problem11/ReadMe.md
+        DataSet: app/Problem11/DataSet.txt
 
 
 

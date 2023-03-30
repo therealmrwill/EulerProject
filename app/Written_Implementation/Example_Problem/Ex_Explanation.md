@@ -1,7 +1,8 @@
 ## Problem 0: Example Problem 
 
 
-**Problem Status**
+**Problem Status:**
+    
     This is where the status for each language in the project will be stored
     C#: Completed & Commented (This signifies that the code is fully accessible to look at)
     Java: Completed (This signifies that the code is completed, but might not be commented in a helpful way)
@@ -11,13 +12,15 @@
     Also provided here, will be the filePaths to the files that store the solution if the status is above completed
 
 
-**Statement of Problem**
+**Statement of Problem:**
+
     This area will be where the problem statement will be stored. 
     This text will not be my own, and will be copied directly from projecteuler.net
     This is just to help understand the scope of the project 
 
 
-**Main Pseudo-Code**
+**Main Pseudo-Code:**
+
     This area will list in steps how I plan to complete this problem, regardless of which language I am completing it in
     Looking at this written code should help format your own code, before you have to look at the actual methods
 

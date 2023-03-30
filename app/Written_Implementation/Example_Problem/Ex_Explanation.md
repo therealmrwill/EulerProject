@@ -27,7 +27,7 @@
     Example Code:
 
     1. This would be a step in the process
-    2. This step could signify a loop
+    2L. This step could signify a loop
         2.1. This would signify step one that would be performed inside this loop
         2.2? The question mark will signify that this line will be an "if" statement of some sort
     3. This could signify a more complex step or logical leap
